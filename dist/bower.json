@@ -1,0 +1,26 @@
+{
+  "name": "toDoList",
+  "version": "0.0.1",
+  "authors": [
+    "Keith Reynolds <keithreynoldsworld@gmail.com>"
+  ],
+  "description": "A todo list to track my daily tasks",
+  "main": "index.html",
+  "keywords": [
+    "todo",
+    "jquery",
+    "Javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/keithreynoldsworld",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
